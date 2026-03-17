@@ -3,6 +3,8 @@
 **Team ErRor_404** - InnoVedam Hackathon Project
 
 A revolutionary peer-to-peer item borrowing platform designed specifically for campus communities, solving trust, pricing, and delivery challenges with innovative features.
+![Uploading Screenshot 2026-03-17 at 3.30.37 PM.png…]()
+
 
 ## 🌟 Core Features
 
